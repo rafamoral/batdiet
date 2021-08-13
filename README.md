@@ -2,4 +2,4 @@
 
 Code and data for Kruszynski et al., "Diet Composition of Bats in a Human-Modified Tropical Landscape"
 
-Main file: kruszynski_et_al_script.R
+Main file: kruszynski_et_al_scripts.R
